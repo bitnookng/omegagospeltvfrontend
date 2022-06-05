@@ -249,7 +249,7 @@ const Homepage =()=>{
                                     <span className="badge badge-secondary p-2">18+</span>
                                     <span className="ml-3">2 Seasons</span>
                                  </div>
-                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Ipsum has been the industry's standard
                                     dummy text ever since the 1500s.
                                  </p>
                               </div>
